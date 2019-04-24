@@ -5,7 +5,7 @@ Train Authority Demo
 
 # 集成SDK步骤
 
-1 git clone https://github.com/latitech/AuthorityDemo.git 以后，目录中含有sdk文件夹，把该文件夹拖入你的项目根目录中
+1 git clone https://github.com/woaick/Authority.git 以后，目录中含有sdk文件夹，把该文件夹拖入你的项目根目录中
 
 
 2 选择项目设置-> General -> Embedded Binaries，把sdk目录下所有的 framework 文件导入
